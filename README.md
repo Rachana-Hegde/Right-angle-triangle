@@ -1,6 +1,3 @@
-
----
-
 # 🔺 Right-Angle Triangle Pattern – Python Program
 
 This is a simple Python program that prints a **right-angle triangle** made of asterisks (`*`). It demonstrates basic use of loops and pattern printing, perfect for beginners.
@@ -70,10 +67,8 @@ python triangle_pattern.py
   * Inverted triangles
   * Number or alphabet patterns
 
-## 📄 License
+## 📬 Contact  
 
-This project is free to use under the **MIT License**.
-Feel free to modify and build upon it!
-
----
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
 
