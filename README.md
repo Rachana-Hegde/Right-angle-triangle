@@ -78,4 +78,3 @@ Feel free to modify and build upon it!
 
 ---
 
-Let me know if you want a version of the triangle with numbers, inverted format, or aligned to the right side.
